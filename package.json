@@ -3,6 +3,17 @@
   "displayName": "Dark Evo Theme",
   "description": "Custom Dark Mode with a color scheme based on Crowned Shattered Evo",
   "version": "0.0.1",
+  "publisher": "EarntoDio", 
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BrandonNguyen55/dark-evo"
+  },
+  "keywords": [
+    "theme", 
+    "dark theme",
+    "EarntoDio", 
+    "evo"
+  ],
   "engines": {
     "vscode": "^1.76.0"
   },
