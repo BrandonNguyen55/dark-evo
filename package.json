@@ -1,0 +1,21 @@
+{
+  "name": "dark-evo-theme",
+  "displayName": "Dark Evo Theme",
+  "description": "Custom Dark Mode with a color scheme based on Crowned Shattered Evo",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark-color-theme.json"
+      }
+    ]
+  }
+}
