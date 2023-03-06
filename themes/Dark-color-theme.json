@@ -3,20 +3,27 @@
 	  "$schema": "vscode://schemas/color-theme",
 	  "type": "dark",
 	  "colors": {
-		"activityBar.background": "#252525",
-		"activityBar.border": "#25252560",
-		"activityBar.foreground": "#FFFFFF",
+		"activityBar.background": "#313131",
+		"activityBar.border": "#30F3F360",
+		"activityBar.foreground": "#30F0F0",
+
 		"activityBarBadge.background": "#FFFFFF",
 		"activityBarBadge.foreground": "#252525",
+
 		"badge.background": "#25252530",
 		"badge.foreground": "#30F0F0",
+
 		"breadcrumb.activeSelectionForeground": "#30F0F0",
 		"breadcrumb.background": "#252525",
 		"breadcrumb.focusForeground": "#FFFFFF",
 		"breadcrumb.foreground": "#6F6FA7",
+
 		"breadcrumbPicker.background": "#252525",
+		
 		"button.background": "#30F0F050",
+
 		"contrastBorder": "#30F0F040",
+		
 		"debugToolBar.background": "#252525",
 		"diffEditor.insertedTextBackground": "#30F0F015",
 		"diffEditor.removedTextBackground": "#FFFFFF20",
@@ -286,7 +293,7 @@
 			"entity.name.tag.reference.scss"
 		  ],
 		  "settings": {
-			"foreground": "#A7A8AF"
+			"foreground": "#1890C1"
 		  }
 		},
 		{
@@ -321,7 +328,7 @@
 			"string.quoted.single.scss"
 		  ],
 		  "settings": {
-			"foreground": "#A7A8AF"
+			"foreground": "#78A878"
 		  }
 		},
 		{
@@ -342,7 +349,7 @@
 			"comment.block.html"
 		  ],
 		  "settings": {
-			"foreground": "#6D6F7C"
+			"foreground": "#78A878"
 		  }
 		},
 		{
@@ -397,9 +404,17 @@
 		  "scope": [
 			"string",
 			"string.quoted.double.html",
+		  ],
+		  "settings": {
+			"foreground": "#7070b1"
+		  }
+
+
+		},
+		{
+		  "scope": [
 			"variable.other.constant.js",
 			"variable.other.object.property.js",
-			"string.quoted.double.json",
 			"markup.fenced_code.block.markdown",
 			"markup.inline.raw.string.markdown",
 			"variable.function",
@@ -541,7 +556,7 @@
 			"support.function"
 		  ],
 		  "settings": {
-			"foreground": "#30F0F0"
+			"foreground": "#ffffff"
 		  }
 		},
 		{
