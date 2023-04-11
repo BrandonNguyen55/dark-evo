@@ -70,7 +70,7 @@
 		"editorSuggestWidget.foreground": "#FFFFFF",
 		"editorSuggestWidget.highlightForeground": "#30F0F0",
 		"editorSuggestWidget.selectedBackground": "#30F0F020",
-		"editorWarning.foreground": "#30F0F0",
+		"editorWarning.foreground": "#eeff00",
 		"editorWhitespace.foreground": "#FFFFFF40",
 		"editorWidget.background": "#252525",
 		"editorWidget.border": "#30F0F0",
