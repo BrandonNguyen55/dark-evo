@@ -11,14 +11,14 @@
 		"activityBarBadge.foreground": "#252525",
 
 		"badge.background": "#25252530",
-		"badge.foreground": "#30F0F0",
+		"badge.foreground": "#30f0f0",
 
 		"breadcrumb.activeSelectionForeground": "#30F0F0",
 		"breadcrumb.background": "#252525",
 		"breadcrumb.focusForeground": "#FFFFFF",
 		"breadcrumb.foreground": "#6F6FA7",
 
-		"breadcrumbPicker.background": "#252525",
+		"breadcrumbPicker.background": "#30F0F0",
 		
 		"button.background": "#30F0F050",
 
