@@ -286,7 +286,6 @@
 			"keyword.control",
 			"constant.other.color",
 			"punctuation.definition.tag",
-			"punctuation",
 			"punctuation.separator.inheritance.php",
 			"punctuation.definition.tag.html",
 			"punctuation.section.embedded",
@@ -304,7 +303,6 @@
 			"punctuation.definition.tag.end.html",
 			"string.quoted.single.python",
 			"entity.name.type.module.js",
-			"punctuation.definition",
 		  ],
 		  "settings": {
 			"foreground": "#6F6FA7"
@@ -329,8 +327,6 @@
 		},
 		{
 		  "scope": [
-			"punctuation.definition.string.end.python",
-			"punctuation.definition.string.begin.python",
 			"string.quoted.docstring.multi.python",
 		  ],
 		  "settings": {
