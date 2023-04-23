@@ -286,13 +286,15 @@
 			"keyword.control",
 			"constant.other.color",
 			"punctuation.definition.tag",
-			"punctuation",
 			"punctuation.separator.inheritance.php",
 			"punctuation.definition.tag.html",
 			"punctuation.section.embedded",
 			"keyword.other.template",
 			"keyword.other.substitution",
-			"entity.name.tag.reference.scss"
+			"entity.name.tag.reference.scss",
+			"punctuation.separator.annotation.result.python",
+			"punctuation.separator.colon.python",
+			"punctuation.section.function.begin.python"
 		  ],
 		  "settings": {
 			"foreground": "#1890C1"
@@ -304,7 +306,6 @@
 			"punctuation.definition.tag.end.html",
 			"string.quoted.single.python",
 			"entity.name.type.module.js",
-			"punctuation.definition",
 		  ],
 		  "settings": {
 			"foreground": "#6F6FA7"
@@ -329,8 +330,6 @@
 		},
 		{
 		  "scope": [
-			"punctuation.definition.string.end.python",
-			"punctuation.definition.string.begin.python",
 			"string.quoted.docstring.multi.python",
 		  ],
 		  "settings": {
@@ -634,10 +633,18 @@
 		},
 		{
 		  "scope": [
+			"constant.other.caps",
+			"variable.parameter.function.language.python"
+		  ],
+		  "settings": {
+			"foreground": "#d3eef8"
+		  }
+		},		{
+		  "scope": [
 			"constant.character.escape"
 		  ],
 		  "settings": {
-			"foreground": "#FFFFFF"
+			"foreground": "#1890C1"
 		  }
 		},
 		{
