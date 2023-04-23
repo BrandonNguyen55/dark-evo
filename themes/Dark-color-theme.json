@@ -636,8 +636,9 @@
 			"constant.other.caps",
 			"variable.parameter.function.language.python"
 		  ],
+
 		  "settings": {
-			"foreground": "#d3eef8"
+			"foreground": "#c7f0ff"
 		  }
 		},		{
 		  "scope": [
