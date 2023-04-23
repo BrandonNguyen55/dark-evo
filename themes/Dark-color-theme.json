@@ -291,7 +291,10 @@
 			"punctuation.section.embedded",
 			"keyword.other.template",
 			"keyword.other.substitution",
-			"entity.name.tag.reference.scss"
+			"entity.name.tag.reference.scss",
+			"punctuation.separator.annotation.result.python",
+			"punctuation.separator.colon.python",
+			"punctuation.section.function.begin.python"
 		  ],
 		  "settings": {
 			"foreground": "#1890C1"
@@ -630,10 +633,18 @@
 		},
 		{
 		  "scope": [
+			"constant.other.caps",
+			"variable.parameter.function.language.python"
+		  ],
+		  "settings": {
+			"foreground": "#d3eef8"
+		  }
+		},		{
+		  "scope": [
 			"constant.character.escape"
 		  ],
 		  "settings": {
-			"foreground": "#FFFFFF"
+			"foreground": "#1890C1"
 		  }
 		},
 		{
